@@ -4,8 +4,8 @@ I'm an aspiring Data Scientist that just completed the Master of Data Science pr
 
 ## Me at a Glance
 
-- 🔭 I’m currently working on projects related to sports analytics and health information management.
-- 🌱 I’m currently learning deep learning through the use of PyTorch and Tensorflow.
+- 🔭 I’m currently working on projects related to sports analytics, metabolomics and biomarker identification, and genetic variant curation.
+- 🌱 I’m currently learning deep learning through the use of PyTorch and Tensorflow and building on my SQL skills.
 - 😃 Fun fact: I have a background in Biochemistry and actually started out working in clinical research where one of the first studies I ever worked on involved making kids cry and collecting their tears...was quite an interesting experience.
 - ⚡My interests: I'm a big basketball fan (Go Raptors!!), love a good horror movie, and am forever searching for the best chicken sharwarma spots in town (current favorite is Uncle Sal's Shawarma).
 
