@@ -9,11 +9,6 @@ I'm an aspiring Data Scientist that just completed the Master of Data Science pr
 - 😃 Fun fact: I have a background in Biochemistry and actually started out working in clinical research where one of the first studies I ever worked on involved making kids cry and collecting their tears...was quite an interesting experience.
 - ⚡My interests: I'm a big basketball fan (Go Raptors!!), love a good horror movie, and am forever searching for the best chicken sharwarma spots in town (current favorite is Uncle Sal's Shawarma).
 
-## How to Reach me
-
-- Email: mike_guron@outlook.com
-- <p><a href="https://www.linkedin.com/in/mike-guron/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> 
-
 ## What I know 
   
 ### Programming Languages
@@ -48,6 +43,11 @@ I'm an aspiring Data Scientist that just completed the Master of Data Science pr
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+
+## How to Reach me
+
+- Email: mike_guron@outlook.com
+- <p><a href="https://www.linkedin.com/in/mike-guron/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=white" style="height:25px" /></a> 
 
 ### Stats  
  
